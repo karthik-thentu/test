@@ -1,3 +1,1 @@
-all deleted
-trying for conflict
-hard reset
+deleted previous data and added this line
